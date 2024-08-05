@@ -4,7 +4,7 @@ I'm Priscilla & I'm a recent MS in Data Science graduate. I'm passionate about t
 I'm highly skilled in:
 
 - Statistical Analysis
-- Database Creation and Management
+- Database Creation & Management
 - Data Visualization
 
  Proficient in the following tools ⚒️:
