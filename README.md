@@ -7,7 +7,7 @@ I'm highly skilled in:
 - Database Creation & Management
 - Data Visualization
 
- Proficient in the following tools ⚒️:
+ Proficient in the following tools:
  -  Python
  -  SQL
  -  R
